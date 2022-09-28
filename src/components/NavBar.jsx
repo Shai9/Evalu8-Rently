@@ -12,6 +12,7 @@ export default function NavBar(){
          <li>Categories</li>
         <li>SignUp</li>
       <li>Login</li>
+      
     </ul>
   </nav>
   )
