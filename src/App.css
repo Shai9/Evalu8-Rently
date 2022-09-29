@@ -51,3 +51,14 @@ section{
   max-width: 600px;
   align-self: center;
 }
+
+footer {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  
+}
+
+footer p {
+  color: rgb(156, 150, 150);
+}
